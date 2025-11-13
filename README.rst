@@ -5,9 +5,9 @@ monster is a program to teach stuff
 
 Dependencies
 ------------
-- `Python 2.7 <http://python.org/>`_
+- `Python 3.11.3 <https://python.org/downloads/release/python-3113>`_
 - `pygame <https://pygame.org/download.shtml>`_
-- `PyQt4 <http://www.riverbankcomputing.co.uk/software/pyqt/download>`_
+- `PyQt5 <http://www.riverbankcomputing.co.uk/software/pyqt/download>`_
 
 version 0.1
 
